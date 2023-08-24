@@ -14,6 +14,7 @@ total_percent = (percent_tip / 100) * total_bill
 total_percentbill = total_percent + total_bill
 
 split_bill = total_percentbill / total_ppl
+split_bill = round(split_bill, 2)
 
 print(f"Each person should pay ${split_bill}")
 
