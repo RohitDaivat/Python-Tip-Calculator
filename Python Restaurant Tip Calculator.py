@@ -1,4 +1,4 @@
-print("Welcome to the Python Restaurant tip calculator.")
+print("Welcome to the python restaurant tip calculator.")
 total_bill = input("what was the total bill? $")
 total_bill = float(total_bill)
 
