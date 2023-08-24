@@ -18,7 +18,7 @@ total_percentbill = total_percent + total_bill
 split_bill = total_percentbill / total_ppl
 split_bill = round(split_bill, 2)
 
-formatted_bill = f"{split_bill:.2f}"
+formatted_bill = f"{split_bill:.2f}"  # here ':' indicates the start of format specification; '.2' no. should format within 2 decimal places; 'f' indicates that the value which being formatted is floatin gpoint no.
 
 print(f"Each person should pay ${formatted_bill}")
 
