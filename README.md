@@ -1,7 +1,7 @@
 # Python-Tip-Calculator
 A simple Bill Split and Tip Calculator Using Python.
 
-How to Use 🚀:
+How to Use:
 
 Execute the script using Python.
 Input the total bill amount.
